@@ -4,7 +4,8 @@ export default StyleSheet.create({
   loginForm: {
     borderWidth: 2,
     borderColor: "red",
-    padding: 10,
+	padding: 10,
+	marginBottom: 20,
     fontSize: 20
   }
 });
